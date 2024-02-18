@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore folders
+/models/
+/sort/
+
+# Ignore files with .pt extension
+*.pt
