@@ -17,4 +17,4 @@ Requires the sort module from [this repository](https://github.com/abewley/sort)
 
 ## Result of Testing
 
-![alt text](./data/image.png)
+![alt text](data/image.png)
